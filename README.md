@@ -1,6 +1,31 @@
 # GunSwan — developed by さっち
 
 Copyright © 2026 さっち。個人開発のWindows x64向けWonderSwan / WonderSwan Color / SwanCrystalエミュレーターです。
+
+## ダウンロード — Windows v1.0.0
+
+**[GunSwan v1.0.0 をダウンロード（Windows x64 ZIP）](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.0.0/GunSwan-1.0.0-license-r1-windows-x64.zip)**
+
+- [正式リリースページ（更新内容・配布記録）](https://github.com/yosisato-boop/GunSwan-Releases/releases/tag/v1.0.0)
+- [SHA-256の確認方法・必要環境・導入手順](DOWNLOAD.md)
+
+正式公開：2026年10月17日 22:05:56（日本時間）。配布ファイル：`GunSwan-1.0.0-license-r1-windows-x64.zip`。
+GitHubの「Source code (zip / tar.gz)」は案内文書のみです。実行ファイルは上記の配布ZIPを取得してください。
+
+### はじめて使う方へ
+
+Windows x64とMicrosoft Visual C++ v14 Redistributable x64が必要です。
+最小対応Windows版は未確定です。Windows 11開発環境と別PCでの機能確認があり、全環境の動作保証はありません。
+Runtimeの入手先と詳しい操作は[導入・操作](INSTALL.md)、制約は[既知の制約](KNOWN_ISSUES.md)を参照してください。
+
+1. 配布ZIPをダウンロードし、[SHA-256を確認](DOWNLOAD.md#sha-256の確認方法)します。
+2. ZIPを展開し、GunSwanフォルダー内のファイルをまとめて保持します。
+3. `gunswan-launcher.exe`を起動し、自身で用意した `.ws` / `.wsc` ROMを指定して「START GUNSWAN」を選びます。
+
+ROMは同梱していません。通常プレイにFFmpegは不要です。Movie出力には別途FFmpegが必要です。
+
+## 利用条件・関連文書
+
 無料の個人・家庭・教育研究・企業内通常利用、必要コピー・backup、限定ローカル解析を認める正式条件を所有者承認済み。
 第三者再配布・ミラー・本体販売・商用組込みは個別許可制です。詳細は日本語正文に従います。
 このリポジトリは公開案内文書専用で、製品ソース・開発Git履歴を含みません。
