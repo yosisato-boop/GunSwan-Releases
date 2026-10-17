@@ -1,0 +1,38 @@
+{
+  "name": "利用質問・文書の問い合わせ / Question",
+  "description": "利用方法や文書の不明点を質問できます。",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "日本語・英語どちらでも報告できます。ROM/BOOT/Session/State/Keylog、秘密・本名・個人メール・未加工ログを添付しないでください。脆弱性詳細は公開せずSECURITY.mdを確認してください。"
+      }
+    },
+    {
+      "type": "dropdown",
+      "id": "category",
+      "attributes": {
+        "label": "問い合わせの種類",
+        "options": [
+          "利用方法",
+          "文書の不備",
+          "個別許可の相談（秘密なし）",
+          "その他"
+        ]
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "question",
+      "attributes": {
+        "label": "質問・文書の該当箇所"
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ]
+}

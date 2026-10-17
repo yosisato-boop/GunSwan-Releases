@@ -1,0 +1,32 @@
+{
+  "name": "機能要望 / Feature request",
+  "description": "期待する使い方を説明してください。",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "日本語・英語どちらでも報告できます。ROM/BOOT/Session/State/Keylog、秘密・本名・個人メール・未加工ログを添付しないでください。脆弱性詳細は公開せずSECURITY.mdを確認してください。"
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "purpose",
+      "attributes": {
+        "label": "目的・解決したいこと"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "proposal",
+      "attributes": {
+        "label": "期待する操作"
+      },
+      "validations": {
+        "required": true
+      }
+    }
+  ]
+}

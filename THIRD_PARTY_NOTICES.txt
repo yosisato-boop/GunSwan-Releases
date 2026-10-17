@@ -1,0 +1,118 @@
+GunSwan third-party dependency notices
+Resolved Windows desktop graph, including build-only dependencies.
+License texts are copied unchanged. Alternative license texts are retained;
+GunSwan RC binary evaluation terms are in LICENSE.txt; source publication rights are not granted by this notice.
+Rust toolchain-wide notice texts (not per-component attributions) are copied unchanged under LICENSES/RustToolchain; see rust-toolchain-license-manifest.json for relative provenance and SHA-256.
+FFmpeg is optional and external; no FFmpeg binary is bundled.
+
+adler2 2.0.1: 0BSD OR MIT OR Apache-2.0
+  LICENSES/adler2-2.0.1/LICENSE-0BSD
+  LICENSES/adler2-2.0.1/LICENSE-APACHE
+  LICENSES/adler2-2.0.1/LICENSE-MIT
+bincode 1.3.3: MIT
+  LICENSES/bincode-1.3.3/LICENSE.md
+bitflags 1.3.2: MIT/Apache-2.0
+  LICENSES/bitflags-1.3.2/LICENSE-APACHE
+  LICENSES/bitflags-1.3.2/LICENSE-MIT
+cc 1.2.67: MIT OR Apache-2.0
+  LICENSES/cc-1.2.67/LICENSE-APACHE
+  LICENSES/cc-1.2.67/LICENSE-MIT
+cfg-if 1.0.4: MIT OR Apache-2.0
+  LICENSES/cfg-if-1.0.4/LICENSE-APACHE
+  LICENSES/cfg-if-1.0.4/LICENSE-MIT
+cpal 0.15.3: Apache-2.0
+  LICENSES/cpal-0.15.3/LICENSE
+crc32fast 1.5.0: MIT OR Apache-2.0
+  LICENSES/crc32fast-1.5.0/LICENSE-APACHE
+  LICENSES/crc32fast-1.5.0/LICENSE-MIT
+dasp_sample 0.11.0: MIT OR Apache-2.0
+  LICENSES/dasp_sample-0.11.0/LICENSE-APACHE
+  LICENSES/dasp_sample-0.11.0/LICENSE-MIT
+fdeflate 0.3.7: MIT OR Apache-2.0
+  LICENSES/fdeflate-0.3.7/LICENSE-APACHE
+  LICENSES/fdeflate-0.3.7/LICENSE-MIT
+find-msvc-tools 0.1.9: MIT OR Apache-2.0
+  LICENSES/find-msvc-tools-0.1.9/LICENSE-APACHE
+  LICENSES/find-msvc-tools-0.1.9/LICENSE-MIT
+flate2 1.1.9: MIT OR Apache-2.0
+  LICENSES/flate2-1.1.9/LICENSE-APACHE
+  LICENSES/flate2-1.1.9/LICENSE-MIT
+itoa 1.0.18: MIT OR Apache-2.0
+  LICENSES/itoa-1.0.18/LICENSE-APACHE
+  LICENSES/itoa-1.0.18/LICENSE-MIT
+jobserver 0.1.32: MIT OR Apache-2.0
+  LICENSES/jobserver-0.1.32/LICENSE-APACHE
+  LICENSES/jobserver-0.1.32/LICENSE-MIT
+memchr 2.8.3: Unlicense OR MIT
+  LICENSES/memchr-2.8.3/COPYING
+  LICENSES/memchr-2.8.3/LICENSE-MIT
+  LICENSES/memchr-2.8.3/UNLICENSE
+minifb 0.27.0: MIT OR Apache-2.0
+  LICENSES/minifb-0.27.0/LICENSE
+  LICENSES/minifb-0.27.0/LICENSE-APACHE
+  LICENSES/minifb-0.27.0/LICENSE-MIT
+miniz_oxide 0.8.9: MIT OR Zlib OR Apache-2.0
+  LICENSES/miniz_oxide-0.8.9/LICENSE
+  LICENSES/miniz_oxide-0.8.9/LICENSE-APACHE.md
+  LICENSES/miniz_oxide-0.8.9/LICENSE-MIT.md
+  LICENSES/miniz_oxide-0.8.9/LICENSE-ZLIB.md
+png 0.17.16: MIT OR Apache-2.0
+  LICENSES/png-0.17.16/LICENSE-APACHE
+  LICENSES/png-0.17.16/LICENSE-MIT
+proc-macro2 1.0.106: MIT OR Apache-2.0
+  LICENSES/proc-macro2-1.0.106/LICENSE-APACHE
+  LICENSES/proc-macro2-1.0.106/LICENSE-MIT
+quote 1.0.46: MIT OR Apache-2.0
+  LICENSES/quote-1.0.46/LICENSE-APACHE
+  LICENSES/quote-1.0.46/LICENSE-MIT
+raw-window-handle 0.6.2: MIT OR Apache-2.0 OR Zlib
+  LICENSES/raw-window-handle-0.6.2/LICENSE-APACHE.md
+  LICENSES/raw-window-handle-0.6.2/LICENSE-MIT.md
+  LICENSES/raw-window-handle-0.6.2/LICENSE-ZLIB.md
+serde 1.0.228: MIT OR Apache-2.0
+  LICENSES/serde-1.0.228/LICENSE-APACHE
+  LICENSES/serde-1.0.228/LICENSE-MIT
+serde_core 1.0.228: MIT OR Apache-2.0
+  LICENSES/serde_core-1.0.228/LICENSE-APACHE
+  LICENSES/serde_core-1.0.228/LICENSE-MIT
+serde_derive 1.0.228: MIT OR Apache-2.0
+  LICENSES/serde_derive-1.0.228/LICENSE-APACHE
+  LICENSES/serde_derive-1.0.228/LICENSE-MIT
+serde_json 1.0.151: MIT OR Apache-2.0
+  LICENSES/serde_json-1.0.151/LICENSE-APACHE
+  LICENSES/serde_json-1.0.151/LICENSE-MIT
+shlex 2.0.1: MIT OR Apache-2.0
+  LICENSES/shlex-2.0.1/LICENSE-APACHE
+  LICENSES/shlex-2.0.1/LICENSE-MIT
+simd-adler32 0.3.10: MIT
+  LICENSES/simd-adler32-0.3.10/LICENSE.md
+syn 2.0.118: MIT OR Apache-2.0
+  LICENSES/syn-2.0.118/LICENSE-APACHE
+  LICENSES/syn-2.0.118/LICENSE-MIT
+unicode-ident 1.0.24: (MIT OR Apache-2.0) AND Unicode-3.0
+  LICENSES/unicode-ident-1.0.24/LICENSE-APACHE
+  LICENSES/unicode-ident-1.0.24/LICENSE-MIT
+  LICENSES/unicode-ident-1.0.24/LICENSE-UNICODE
+winapi 0.3.9: MIT/Apache-2.0
+  LICENSES/winapi-0.3.9/LICENSE-APACHE
+  LICENSES/winapi-0.3.9/LICENSE-MIT
+windows 0.54.0: MIT OR Apache-2.0
+  LICENSES/windows-0.54.0/license-apache-2.0
+  LICENSES/windows-0.54.0/license-mit
+windows-core 0.54.0: MIT OR Apache-2.0
+  LICENSES/windows-core-0.54.0/license-apache-2.0
+  LICENSES/windows-core-0.54.0/license-mit
+windows-result 0.1.2: MIT OR Apache-2.0
+  LICENSES/windows-result-0.1.2/license-apache-2.0
+  LICENSES/windows-result-0.1.2/license-mit
+windows-sys 0.59.0: MIT OR Apache-2.0
+  LICENSES/windows-sys-0.59.0/license-apache-2.0
+  LICENSES/windows-sys-0.59.0/license-mit
+windows-targets 0.52.6: MIT OR Apache-2.0
+  LICENSES/windows-targets-0.52.6/license-apache-2.0
+  LICENSES/windows-targets-0.52.6/license-mit
+windows_x86_64_msvc 0.52.6: MIT OR Apache-2.0
+  LICENSES/windows_x86_64_msvc-0.52.6/license-apache-2.0
+  LICENSES/windows_x86_64_msvc-0.52.6/license-mit
+zmij 1.0.23: MIT
+  LICENSES/zmij-1.0.23/LICENSE-MIT

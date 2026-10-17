@@ -1,0 +1,112 @@
+{
+  "name": "不具合・互換性報告 / Bug report",
+  "description": "環境と再現手順を記載してください。",
+  "body": [
+    {
+      "type": "markdown",
+      "attributes": {
+        "value": "日本語・英語どちらでも報告できます。ROM/BOOT/Session/State/Keylog、秘密・本名・個人メール・未加工ログを添付しないでください。脆弱性詳細は公開せずSECURITY.mdを確認してください。"
+      }
+    },
+    {
+      "type": "input",
+      "id": "version",
+      "attributes": {
+        "label": "GunSwanのバージョン"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "windows",
+      "attributes": {
+        "label": "Windowsのバージョン"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "hardware",
+      "attributes": {
+        "label": "CPU / GPU"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "audio",
+      "attributes": {
+        "label": "音声デバイス"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "lcd",
+      "attributes": {
+        "label": "画面倍率・LCDモード"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "input",
+      "id": "rom_title",
+      "attributes": {
+        "label": "ROMタイトル（任意・ファイル不要）"
+      },
+      "validations": {
+        "required": false
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "steps",
+      "attributes": {
+        "label": "再現手順"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "expected",
+      "attributes": {
+        "label": "期待する結果"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "actual",
+      "attributes": {
+        "label": "実際の結果・エラー"
+      },
+      "validations": {
+        "required": true
+      }
+    },
+    {
+      "type": "textarea",
+      "id": "logs",
+      "attributes": {
+        "label": "機密を除去したログ（任意）"
+      },
+      "validations": {
+        "required": false
+      }
+    }
+  ]
+}
