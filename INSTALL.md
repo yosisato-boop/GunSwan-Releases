@@ -5,7 +5,7 @@ GunSwan — developed by さっち / Copyright © 2026 さっち
 導入・操作の説明です。
 
 Windows x64、Microsoft Visual C++ v14 Redistributable x64が必要です。
-Windows 11開発環境と別PCでの機能確認はありますが、別PCのOS/Runtime詳細は未記録です。
+Windows 11開発環境と別PCでの機能確認はありますが、v1.0.0の別PC確認のOS/Runtime詳細は未記録です。1.0.1の新しいClean Windows試験とは区別します。
 最小Windows版や全driverでの動作は保証していません。
 [Microsoft公式Runtime案内](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 からx64用を確認してください。不足DLLが出た場合はメッセージを記録します。

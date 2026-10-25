@@ -1,6 +1,6 @@
 # セキュリティ報告
 
-対象はGunSwan Windows 1.0.0。さっちが個人開発しています。
+対象はGunSwan Windows 1.0.0 / 1.0.1。さっちが個人開発しています。
 脆弱性の詳細は公開Issueへ投稿せず、GitHub Private Vulnerability Reportingを使用する方針です。
 対象リポジトリのSecurity → AdvisoriesにReport a vulnerabilityの入口が表示される場合、そこで非公開報告を行ってください。
 入口の存在を確認できない間は、機能が利用可能だと解釈しないでください。

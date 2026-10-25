@@ -1,3 +1,22 @@
+# GunSwan v1.0.1 のダウンロード
+
+**[Windows x64 ZIP](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.0.1/GunSwan-1.0.1-license-r1-windows-x64.zip)** / [Release・実際の公開日時](https://github.com/yosisato-boop/GunSwan-Releases/releases/tag/v1.0.1)
+
+- ZIP: `GunSwan-1.0.1-license-r1-windows-x64.zip`
+- ZIP SHA-256: `73ce80cef6bd3995a7863a846c12bdba81abada27b99bb0755e115a50df77e00`
+- LICENSE SHA-256: `db60bd3ed24f0f05cfb668333fc3775618616077a6e5cf7d41b74ae1403855de`
+- [Checksumファイル](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.0.1/GunSwan-1.0.1-license-r1-windows-x64.zip.sha256)
+
+```powershell
+Get-FileHash -LiteralPath ".\GunSwan-1.0.1-license-r1-windows-x64.zip" -Algorithm SHA256
+```
+
+64桁すべてを照合し、ZIPのLICENSE.txtと[同一の日本語正文](GUNSWAN_V1_0_1_RELEASE_NOTES_JA.md#license)を確認してください。Windows x64とMicrosoft Visual C++ v14 Redistributable x64が必要です。通常プレイにFFmpegは不要、Movieには別途FFmpegが必要です。ROM・メーカーBOOT・個人保存データ・製品ソースは同梱しません。[導入](INSTALL.md) / [既知制約](KNOWN_ISSUES.md)。GitHubのSource code archiveは公開案内文書だけです。
+
+## v1.0.0の過去記録
+
+以下の日時・SHA・LICENSEはv1.0.0の過去記録で、1.0.1と混同しないでください。
+
 # GunSwan v1.0.0 のダウンロード
 
 **[Windows x64向け正式配布ZIPをダウンロード](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.0.0/GunSwan-1.0.0-license-r1-windows-x64.zip)**
