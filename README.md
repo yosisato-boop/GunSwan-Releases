@@ -2,7 +2,17 @@
 
 Copyright © 2026 さっち。個人開発のWindows x64向けWonderSwan / WonderSwan Color / SwanCrystalエミュレーターです。
 
-## ダウンロード — Windows v1.0.1
+## ダウンロード — Windows v1.1.0
+
+**[Windows x64 ZIP](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.1.0/GunSwan-1.1.0-license-r1-windows-x64.zip)** / [SHA-256 ファイル](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.1.0/GunSwan-1.1.0-license-r1-windows-x64.zip.sha256) / [正式リリース](https://github.com/yosisato-boop/GunSwan-Releases/releases/tag/v1.1.0)
+
+ZIP SHA-256: `28e52c0402cfff4913a5b376ba64d0f3b59e1100712ab75b014b1ced113c5d54`
+
+動作確認サンプル「GunPuzzle for WSC - GunSwan Demo -」を同梱しています。更新時は新しいフォルダーにZIPを展開し、`gunswan-launcher.exe` を起動してください。保存先が共通設定に登録済みであれば、既存のライブラリとSessionを引き続き開けます。初めて引き継ぐ場合は、Launcherの設定で既存のユーザーデータフォルダーを指定してください。
+
+[変更点・既知の制限](GUNSWAN_V1_1_0_RELEASE_NOTES_JA.md) / [導入・操作](INSTALL.md)
+
+## 過去の版 — Windows v1.0.1
 
 **[GunSwan v1.0.1 Windows x64 ZIP](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.0.1/GunSwan-1.0.1-license-r1-windows-x64.zip)**
 
@@ -34,7 +44,7 @@ Runtimeの入手先と詳しい操作は[導入・操作](INSTALL.md)、制約�
 2. ZIPを展開し、GunSwanフォルダー内のファイルをまとめて保持します。
 3. `gunswan-launcher.exe`を起動し、自身で用意した `.ws` / `.wsc` ROMを指定して「START GUNSWAN」を選びます。
 
-ROMは同梱していません。通常プレイにFFmpegは不要です。Movie出力には別途FFmpegが必要です。
+v1.1.0には動作確認用のGunPuzzleを同梱しています。通常プレイにFFmpegは不要です。Movie出力には別途FFmpegが必要です。
 
 ## 利用条件・関連文書
 
@@ -43,8 +53,8 @@ ROMは同梱していません。通常プレイにFFmpegは不要です。Movie
 このリポジトリは公開案内文書専用で、製品ソース・開発Git履歴を含みません。
 GitHub自動Source code archiveはこの案内文書だけです。公開用tagと開発v1.0.0タグは別履歴です。
 
-- [ダウンロードとSHA](DOWNLOAD.md) / [利用条件](USAGE_POLICY.md) / [最新1.0.1日本語LICENSE](GUNSWAN_V1_0_1_RELEASE_NOTES_JA.md#license)
-- [導入・操作](INSTALL.md) / [最新Release notes](GUNSWAN_V1_0_1_RELEASE_NOTES_JA.md) / [既知制約](KNOWN_ISSUES.md)
+- [ダウンロードとSHA](DOWNLOAD.md) / [利用条件](USAGE_POLICY.md) / [v1.0.1日本語LICENSE](GUNSWAN_V1_0_1_RELEASE_NOTES_JA.md#license)
+- [導入・操作](INSTALL.md) / [最新Release notes](GUNSWAN_V1_1_0_RELEASE_NOTES_JA.md) / [既知制約](KNOWN_ISSUES.md)
 - [第三者条件](THIRD_PARTY.md) / [文書条件](LICENSE.md) / [セキュリティ](SECURITY.md)
 
 一般問い合わせ・不具合・互換性・利用質問・要望・文書不備はGitHub Issues、日本語中心で英語も受け付けます。

@@ -1,3 +1,13 @@
+# GunSwan v1.1.0 のダウンロード
+
+**[Windows x64 ZIP](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.1.0/GunSwan-1.1.0-license-r1-windows-x64.zip)** / [SHA-256 ファイル](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.1.0/GunSwan-1.1.0-license-r1-windows-x64.zip.sha256) / [正式リリース](https://github.com/yosisato-boop/GunSwan-Releases/releases/tag/v1.1.0)
+
+ZIP SHA-256: `28e52c0402cfff4913a5b376ba64d0f3b59e1100712ab75b014b1ced113c5d54`
+
+動作確認サンプル「GunPuzzle for WSC - GunSwan Demo -」を同梱しています。更新時は新しいフォルダーにZIPを展開し、`gunswan-launcher.exe` を起動してください。保存先が共通設定に登録済みであれば、既存のライブラリとSessionを引き続き開けます。初めて引き継ぐ場合は、Launcherの設定で既存のユーザーデータフォルダーを指定してください。
+
+[変更点・既知の制限](GUNSWAN_V1_1_0_RELEASE_NOTES_JA.md) / [導入・操作](INSTALL.md)
+
 # GunSwan v1.0.1 のダウンロード
 
 **[Windows x64 ZIP](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.0.1/GunSwan-1.0.1-license-r1-windows-x64.zip)** / [Release・実際の公開日時](https://github.com/yosisato-boop/GunSwan-Releases/releases/tag/v1.0.1)
