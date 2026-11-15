@@ -1,0 +1,63 @@
+{
+  "version": "1.1.1",
+  "tag": "v1.1.1",
+  "package": "GunSwan-1.1.1-license-r1-windows-x64.zip",
+  "sha256": "791729a486a7dbeab21c516adde0019cd61b6b0022c4889c80b86e1110be16e9",
+  "size": 8361643,
+  "source_commit": "e707b53f1f187f7b888b24e86736cce899e61ba7",
+  "source_tree": "4573acd913975fda7e60198e5d241a5285ef2437",
+  "sample_sha256": "65aceba33078a9744ce3e246de33d4f4e140877e264606e3ba06f1f63c676d47",
+  "license_sha256": "6712091dfb2505d9c5b27698293808ac7ee06b9be71870d4b6f63c0fe352eaf8",
+  "executables": {
+    "gunswan.exe": {
+      "ProductVersion": "1.1.1",
+      "FileVersion": "1.1.1",
+      "architecture": "x64",
+      "sha256": "11ffebc6a300ab5d41f73e620d1e470377556c2cba6e38732d00b1611e885b35",
+      "bytes": 4209152
+    },
+    "gunswan-launcher.exe": {
+      "ProductVersion": "1.1.1",
+      "FileVersion": "1.1.1",
+      "architecture": "x64",
+      "sha256": "af14dd87dfd2494e1f0afb927ca30e4a3d8f4c11c5e232b2159110664d72f519",
+      "bytes": 2345472
+    },
+    "gunswan-session-viewer.exe": {
+      "ProductVersion": "1.1.1",
+      "FileVersion": "1.1.1",
+      "architecture": "x64",
+      "sha256": "f4a5ad98f726df37265456ae9a0eba021eddad7af683adbded4e2e1d1fbc9a37",
+      "bytes": 2150400
+    },
+    "gunswan-movie.exe": {
+      "ProductVersion": "1.1.1",
+      "FileVersion": "1.1.1",
+      "architecture": "x64",
+      "sha256": "02f715cac2f146bcb06589cf36eae6579bfde90edba1e065154f7ca1a1e868d9",
+      "bytes": 3032064
+    },
+    "gunswan-keylog.exe": {
+      "ProductVersion": "1.1.1",
+      "FileVersion": "1.1.1",
+      "architecture": "x64",
+      "sha256": "a5a740852c9d7d3b373c980e3f56b9c5df7abb6c37092268e65665bd49c58d5d",
+      "bytes": 3032064
+    },
+    "gunswan-state.exe": {
+      "ProductVersion": "1.1.1",
+      "FileVersion": "1.1.1",
+      "architecture": "x64",
+      "sha256": "b0e0043c227e5a9a93d98e38e3ede7b07e5504642cfe4481bf24c8fb605d6677",
+      "bytes": 1474048
+    },
+    "gunswan-compat.exe": {
+      "ProductVersion": "1.1.1",
+      "FileVersion": "1.1.1",
+      "architecture": "x64",
+      "sha256": "f3068f0e153611985784c58f4c74293b073bb6484a6f8dcc4d46bee9a19bfa00",
+      "bytes": 3140096
+    }
+  },
+  "target_triple": "x86_64-pc-windows-msvc"
+}

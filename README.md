@@ -2,7 +2,17 @@
 
 Copyright © 2026 さっち。個人開発のWindows x64向けWonderSwan / WonderSwan Color / SwanCrystalエミュレーターです。
 
-## ダウンロード — Windows v1.1.0
+## ダウンロード — Windows v1.1.1
+
+[Windows x64 ZIP](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.1.1/GunSwan-1.1.1-license-r1-windows-x64.zip) / [SHA-256 ファイル](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.1.1/GunSwan-1.1.1-license-r1-windows-x64.zip.sha256) / [正式リリース](https://github.com/yosisato-boop/GunSwan-Releases/releases/tag/v1.1.1)
+
+ZIP SHA-256 `791729a486a7dbeab21c516adde0019cd61b6b0022c4889c80b86e1110be16e9`
+
+標準カートリッジの8 KiB SRAM宣言に対応しました。動作確認サンプル「GunPuzzle for WSC - GunSwan Demo -」を同梱しています。ZIPを新しいフォルダーに展開し、`gunswan-launcher.exe` を起動してください。
+
+[更新内容](GUNSWAN_V1_1_1_RELEASE_NOTES_JA.md) / [English](GUNSWAN_V1_1_1_RELEASE_NOTES_EN.md) / [利用条件](GUNSWAN_V1_1_1_BINARY_LICENSE_JA.md) / [ビルド出自](GUNSWAN_V1_1_1_BUILD_PROVENANCE.json) / [導入・操作](INSTALL.md)
+
+## 過去の版 — Windows v1.1.0
 
 **[Windows x64 ZIP](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.1.0/GunSwan-1.1.0-license-r1-windows-x64.zip)** / [SHA-256 ファイル](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.1.0/GunSwan-1.1.0-license-r1-windows-x64.zip.sha256) / [正式リリース](https://github.com/yosisato-boop/GunSwan-Releases/releases/tag/v1.1.0)
 
@@ -54,7 +64,7 @@ v1.1.0には動作確認用のGunPuzzleを同梱しています。通常プレ�
 GitHub自動Source code archiveはこの案内文書だけです。公開用tagと開発v1.0.0タグは別履歴です。
 
 - [ダウンロードとSHA](DOWNLOAD.md) / [利用条件](USAGE_POLICY.md) / [v1.0.1日本語LICENSE](GUNSWAN_V1_0_1_RELEASE_NOTES_JA.md#license)
-- [導入・操作](INSTALL.md) / [最新Release notes](GUNSWAN_V1_1_0_RELEASE_NOTES_JA.md) / [既知制約](KNOWN_ISSUES.md)
+- [導入・操作](INSTALL.md) / [最新Release notes](GUNSWAN_V1_1_1_RELEASE_NOTES_JA.md) / [既知制約](KNOWN_ISSUES.md)
 - [第三者条件](THIRD_PARTY.md) / [文書条件](LICENSE.md) / [セキュリティ](SECURITY.md)
 
 一般問い合わせ・不具合・互換性・利用質問・要望・文書不備はGitHub Issues、日本語中心で英語も受け付けます。
