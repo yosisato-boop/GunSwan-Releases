@@ -2,6 +2,12 @@
 
 Copyright © 2026 さっち。個人開発のWindows x64向けWonderSwan / WonderSwan Color / SwanCrystalエミュレーターです。
 
+## 紹介動画
+
+[![GunSwanの紹介動画のサムネイル](https://i.ytimg.com/vi/t9818Fn01jc/hqdefault.jpg)](https://youtu.be/t9818Fn01jc)
+
+[YouTubeでGunSwanの紹介動画を見る](https://youtu.be/t9818Fn01jc)
+
 ## ダウンロード — Windows v1.1.1
 
 [Windows x64 ZIP](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.1.1/GunSwan-1.1.1-license-r1-windows-x64.zip) / [SHA-256 ファイル](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.1.1/GunSwan-1.1.1-license-r1-windows-x64.zip.sha256) / [正式リリース](https://github.com/yosisato-boop/GunSwan-Releases/releases/tag/v1.1.1)
