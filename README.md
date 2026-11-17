@@ -2,6 +2,21 @@
 
 Copyright © 2026 さっち。個人開発のWindows x64向けWonderSwan / WonderSwan Color / SwanCrystalエミュレーターです。
 
+## 主な特徴
+
+GunSwanは、ゲームを動かすだけでなく、**実機らしい表示**と**プレイの記録・再現**を重視したWonderSwanエミュレーターです。
+
+- **WonderSwan / WonderSwan Color / SwanCrystal対応** — 3機種のゲームを対象としています。全タイトルの動作を保証するものではありません。
+- **LCDシミュレーション** — `Raw / WS / WSC / Crystal` の表示モードを切り替えられます。`LCD Lab` ではカスタム調整も可能です。実機の液晶表現を目指した近似フィルターであり、全個体の測定値を完全再現したものではありません。
+- **プレイの中断・再開** — ステート保存・復元、クイックセーブ／ロード、巻き戻しに対応しています。
+- **セッションの記録・再生** — 記録したセッションを `Session Viewer` で読み取り専用再生できます。再生速度やLCD表示も切り替えられます。記録・再現の仕組みをデバッグだけでなく、プレイの振り返りにも活用しています。
+- **プレイ動画の生成** — ROMと記録した入力データ（Keylog）を使ってプレイを再現し、MP4動画を作成できます。動画生成には別途 **FFmpeg** が必要です。
+- **オリジナルデモゲーム「GunPuzzle」同梱** — Codexを活用して制作したWonderSwan Color用ゲームで、別途市販ゲームのROMを用意せずに動作を試せます。
+
+開発にはChatGPTをディレクター、Codexを実装者として活用し、Rustでフルスクラッチ実装しました。
+
+機能の操作方法は[導入・操作](INSTALL.md)、制約事項は[既知の制約](KNOWN_ISSUES.md)を参照してください。
+
 ## 紹介動画
 
 [![GunSwanの紹介動画のサムネイル](https://i.ytimg.com/vi/t9818Fn01jc/hqdefault.jpg)](https://youtu.be/t9818Fn01jc)
