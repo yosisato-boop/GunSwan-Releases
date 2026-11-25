@@ -1,3 +1,13 @@
+# GunSwan v1.2.0 のダウンロード
+
+[Windows x64 ZIP](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.2.0/GunSwan-1.2.0-license-r1-windows-x64.zip) / [SHA-256 ファイル](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.2.0/GunSwan-1.2.0-license-r1-windows-x64.zip.sha256) / [正式リリース](https://github.com/yosisato-boop/GunSwan-Releases/releases/tag/v1.2.0)
+
+ZIP SHA-256 `2a24e0d6110d731e990d92931489c97927a018d1b4d983a05db69a0f3220469a`
+
+CPUの割り込み処理と旧Stateからの再開を改善しました。Sessionから続行すると、正常終了時にROM横の .sav を更新します。動作確認サンプル「GunPuzzle for WSC - GunSwan Demo -」を同梱しています。ZIPを新しいフォルダーに展開し、`gunswan-launcher.exe` を起動してください。
+
+[更新内容](GUNSWAN_V1_2_0_RELEASE_NOTES_JA.md) / [English](GUNSWAN_V1_2_0_RELEASE_NOTES_EN.md) / [利用条件](GUNSWAN_V1_2_0_BINARY_LICENSE_JA.md) / [ビルド出自](GUNSWAN_V1_2_0_BUILD_PROVENANCE.json) / [導入・操作](INSTALL.md)
+
 # GunSwan v1.1.1 のダウンロード
 
 [Windows x64 ZIP](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.1.1/GunSwan-1.1.1-license-r1-windows-x64.zip) / [SHA-256 ファイル](https://github.com/yosisato-boop/GunSwan-Releases/releases/download/v1.1.1/GunSwan-1.1.1-license-r1-windows-x64.zip.sha256) / [正式リリース](https://github.com/yosisato-boop/GunSwan-Releases/releases/tag/v1.1.1)

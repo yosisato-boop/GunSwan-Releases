@@ -1,0 +1,56 @@
+{
+  "version": "1.2.0",
+  "tag": "v1.2.0",
+  "package": "GunSwan-1.2.0-license-r1-windows-x64.zip",
+  "sha256": "2a24e0d6110d731e990d92931489c97927a018d1b4d983a05db69a0f3220469a",
+  "size": 8406529,
+  "source_commit": "9386cc769b9e9014680add7c47aeca3caa7e8de0",
+  "source_tree": "efafd38114413ee5ced4ea359440dac1dc43712a",
+  "sample_sha256": "65aceba33078a9744ce3e246de33d4f4e140877e264606e3ba06f1f63c676d47",
+  "license_sha256": "e118a7fc57e852da72bad0036841f8bf9ed8b645c721046f88e6d55ddf2fe2a3",
+  "executables": {
+    "gunswan.exe": {
+      "sha256": "dffa4c8ddd83e77777c481111e15764b75c879ddabc0979b470e6adbefb558b1",
+      "bytes": 4227072,
+      "ProductVersion": "1.2.0",
+      "FileVersion": "1.2.0"
+    },
+    "gunswan-launcher.exe": {
+      "sha256": "c4c2c6e7c1437d2691090497a4b86e2bbd4bc8cf282eab83ce4501cad1305611",
+      "bytes": 2393088,
+      "ProductVersion": "1.2.0",
+      "FileVersion": "1.2.0"
+    },
+    "gunswan-session-viewer.exe": {
+      "sha256": "f8748aeee3e7111760266b0d1bdf148fcffc9d8c3a2d615e5486ee782474947c",
+      "bytes": 2155008,
+      "ProductVersion": "1.2.0",
+      "FileVersion": "1.2.0"
+    },
+    "gunswan-movie.exe": {
+      "sha256": "8217e31f4dd13e97865cdb7af85ba6348514897caa375e8158b4bb1de35f2c2f",
+      "bytes": 3036672,
+      "ProductVersion": "1.2.0",
+      "FileVersion": "1.2.0"
+    },
+    "gunswan-keylog.exe": {
+      "sha256": "596bdbffcaf9780a9fa4ee1f7927900f7f0c4701c2429955dcb6dbb929311db8",
+      "bytes": 3036672,
+      "ProductVersion": "1.2.0",
+      "FileVersion": "1.2.0"
+    },
+    "gunswan-state.exe": {
+      "sha256": "8249a9ad6e3a3ba5f20de74c2ba83cd01660c6a31e20cc2a0087bcb3564ea9be",
+      "bytes": 1477632,
+      "ProductVersion": "1.2.0",
+      "FileVersion": "1.2.0"
+    },
+    "gunswan-compat.exe": {
+      "sha256": "d71ff7946f143f82c4a22ef39e3a8c019e988d992f717ab6a39ace3d88469621",
+      "bytes": 3143680,
+      "ProductVersion": "1.2.0",
+      "FileVersion": "1.2.0"
+    }
+  },
+  "target_triple": "x86_64-pc-windows-msvc"
+}
